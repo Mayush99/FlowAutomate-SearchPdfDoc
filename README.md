@@ -33,7 +33,6 @@ python main.py
 
 - `POST /auth/register` - Register new user
 - `POST /auth/login` - Login and get JWT token
-- `POST /documents/upload` - Upload parsed PDF data
 - `GET /search` - Search across all content
 - `GET /health` - Health check
 
